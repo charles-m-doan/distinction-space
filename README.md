@@ -94,7 +94,7 @@ The work here is:
 Any interpretations of external theories may contain inaccuracies or oversimplifications, and apologies are offered in advance.  
 Nothing in this repository should be treated as authoritative commentary on the original works or their creators.
 
-This is an exploratory framework, not a professional theory.
+This is an exploratory framework, not a professional theory, and it is very much a **work in progress.**
 
 ---
 
