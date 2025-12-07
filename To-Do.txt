@@ -1,0 +1,15 @@
+Bitspace model articulation
+    - Why bits?
+    - Limitations of model
+    - Why a random walk?
+    - holographic principle relevance
+    - encoding, self-reference / recursion
+
+Deeper and more detailed explanations and examples of core concepts
+
+Better presentation - more book-like plain-wording flow of descriptions
+
+Discussion of implications
+ - particularly with respect to boundaries (Big Bang, Big Rip, absolute grouping vs absolute symmetry)
+ - phenomena: matter, anti-matter, accelerating expansion of spacetime, what is gravity, etc...
+ - ontological layering and the impossibility of logical termination
