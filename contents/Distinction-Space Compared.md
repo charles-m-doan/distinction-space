@@ -1,5 +1,5 @@
 # Distinction-Space Compared  
-## How This Ontology Differs from Wolfram, Tegmark, Barbour, and Spencer-Brown
+## How This Ontology Differs from Others
 
 This document contrasts a **distinction-first / Frame–Sieve–Mesh ontology** with several well-known frameworks:
 
