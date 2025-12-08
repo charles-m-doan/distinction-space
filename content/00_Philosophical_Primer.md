@@ -21,3 +21,8 @@ how growing up immersed in virtual worlds changes one's perspective
 etc...
 
 Why do we think there should be a final turtle in the stack?
+
+
+
+
+I plan to argue that infinite regress isn't a bug, but a feature... and it should be noted that I resisted this STRONGLY for a long time.  But this isn't me throwing my hands up in surrender so much as being delightfully persuaded by logic.
