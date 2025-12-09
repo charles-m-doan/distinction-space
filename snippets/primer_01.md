@@ -11,3 +11,7 @@ Barandes himself is agnostic about the "fundamental ontology."
 I don't think we need to be agnostic. I think we can say, definitively, that a "fundamental ontology" is not only impossible, but not desirable or necessary.  But that doesn't mean that ontology is indefinitely arbitrary. It doesn't mean there's nothing to be said about the "deeper" layers.
 
 
+Barandes quote:
+"The idea that the fundamental ontology is state vectors or wave functions in a Hilbert space is very appealing. It would mean we already know what the fundamental grounding of all reality is--a Hilbert space. There's some Hilbert space, and there's an object or objects in Hilbert space and that IS the fundamental ontology of everything. I'm not saying that. Hilbert spaces are not fundamental in this picture. We go back to really having to be kind of metaphysically humble. We know about some systems; some systems appeart to be particles, some appear to be fields, maybe particles are emerging from fields and we don't need particles as a separate category. Maybe fields are fundamental, maybe they're not. I think it's premature to try to guess what the fundamental ontology is just yet, and in this picture you don't have to. You just pick whatever ontology you need for the model you want to talk about--particles, fields, registers on a computer--and then you proceed from there."
+
+-- I don't think it's premature to guess at what the fundamental ontology is. I'm pretty sure I know what it is. An illusion. There is no fundamental ontology. There is only distinction and recursion.
