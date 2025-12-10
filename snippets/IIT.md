@@ -1,0 +1,3 @@
+Integrated Information Theory gets one thing very right: the qualitative structure of consciousness corresponds to systems that are both highly discriminating and highly integrated. In my terminology, IIT is essentially measuring the density and coherence of a Mesh — a network of recursively stabilizing constraints. Φ is not the metaphysical essence of consciousness; it is a quantitative proxy for a particular kind of Mesh.
+
+IIT identifies the footprint of the phenomenon, not its foundation.
