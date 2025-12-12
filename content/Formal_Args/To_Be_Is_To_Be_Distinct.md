@@ -1,4 +1,4 @@
-### **To Be Is To Be Distinct**
+# **To Be Is To Be Distinct**
 
 ## **Plain-Language Summary**
 
