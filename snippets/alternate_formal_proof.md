@@ -36,6 +36,61 @@ Such a posit does not extend ontology; it merely relabels the same world.
 
 This criterion excludes not what is *unknown*, but what is **in principle difference-free**.
 
+Yes. This can be done cleanly and without rhetorical overreach by making the Cogito an **explicit corollary** of EC rather than a separate argument. That both clarifies EC and raises the cost of rejecting it.
+
+Here is a tight extension that does exactly that.
+
+---
+
+## **EC+ — The Reflexive Criterion of Existence**
+
+> **To exist is to be distinguishable from non-existence.**
+> **Distinction is the minimal condition under which existence can be asserted at all.**
+> **This applies universally, including to first-person mental states.**
+
+This is not an added axiom; it is an **explicit closure** of EC under self-reference.
+
+---
+
+## **Corollary C1 — The Cogito**
+
+> **If thinking occurs, then something exists.**
+
+**Justification**
+
+1. Thinking consists in drawing distinctions: doubting, affirming, imagining, denying.
+2. If thinking occurs, there is a distinction between “thinking” and “not thinking.”
+3. By EC+, any real distinction commits existence.
+4. Therefore, if thinking occurs, something exists.
+
+This is exactly the Cogito, stated without metaphysical excess.
+
+---
+
+## **Why EC+ Makes the Dependence Explicit**
+
+The Cogito works only because the following inference is licensed:
+
+> *There is a distinction* → *there is being*
+
+If one rejects **“to be is to be distinct,”** one must deny that inference.
+
+But then one must accept at least one of the following:
+
+* thinking could occur without differing from not thinking,
+* doubt could be present without contrasting with absence,
+* awareness could exist without being distinguishable from non-awareness.
+
+That position does not merely reinterpret the Cogito; it **invalidates it**.
+
+---
+
+## **Concise Takeaway**
+
+> **“I think, therefore I am” works because thinking is a distinction.**
+> **If distinction does not entail being, the Cogito collapses.**
+> **Therefore, anyone who accepts the Cogito has already accepted EC in its strongest form.**
+
 ---
 
 ## **2. Why Distinction Is Unavoidable**
@@ -205,3 +260,30 @@ Such facts do not deepen ontology; they evacuate it.
 **Substrate independence follows from the minimal criterion of existence itself.**
 
 To deny it is not to offer an alternative ontology, but to allow existence claims that do no work.
+
+---
+
+## **Elaboration on EC / EC+ / C1 and A1**
+
+1. **An existence claim has content only if it rules something out.**
+   If asserting “X exists” is compatible with *everything being exactly the same* whether X exists or not, the assertion adds no information.
+
+2. **Ruling something out requires distinction.**
+   To say “X exists” rather than “X does not exist” is already to invoke a contrast. Without contrast, there is no fact of the matter being asserted.
+
+3. **Therefore, if distinction is not the ground of being, existence claims are empty.**
+   “Exists” would not constrain reality in any way. It would function as a verbal decoration, not an ontological commitment.
+
+4. **The Cogito is an existence claim with content only because thinking is a distinction.**
+   “Thinking” contrasts with “not thinking.” That contrast is what licenses the inference from occurrence to existence.
+
+5. **Denying ‘to be is to be distinct’ therefore undermines the Cogito directly.**
+   One would have to allow that thinking could occur without differing from not thinking, or that the occurrence of a mental act does not suffice to assert being.
+
+To summarize:
+
+* If distinction does not ground being, existence has no content.
+* If existence has no content, “I think, therefore I am” is not a valid existence claim.
+* Anyone who accepts the Cogito has already accepted, implicitly, that **distinction is ontologically committing**.
+
+This does not show that EC must be accepted by everyone, but it shows that rejecting it is not a small move. It forces the abandonment of the Cogito as a meaningful assertion of existence, not merely a reinterpretation of it.
