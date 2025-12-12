@@ -36,28 +36,40 @@ A0 is the boundary condition separating ontology from unintelligible pseudo-posi
 
 # **2. Distinction as the Sole Primitive**
 
-## **Axiom A1 — Distinction as the Primitive of Being**
+## Axiom A1 — Distinction as the Primitive of Being
 
-> **A1. Distinction is the sole ontological primitive.
+> **A1. Distinction is the sole ontological primitive.  
 > To be is to be distinct.**
 
 A1 is not an independent stipulation. It follows directly from A0:
 
-1. To posit a primitive P, one must give P identity conditions.
+1. To posit any primitive P, P must have identity conditions.
 2. Identity conditions require boundaries between P and not-P.
 3. Boundaries are distinctions.
 4. Therefore, any admissible primitive presupposes distinction.
 
-Any attempt to posit a primitive without distinction collapses into unintelligibility under A0.
+Any attempt to posit a primitive without distinction collapses into unintelligibility under A0.  
+If the putative primitive has identity, it is already structured by distinctions and is derivative.  
+If it lacks identity, it cannot be indicated or referred to and therefore cannot be posited at all.
 
-Thus no alternative primitive—substance, field, pure being, qualia, intrinsic nature, flux—can be more fundamental than distinction, because:
-
-* If it has identity, it instantiates distinctions and is derivative.
-* If it lacks identity, it cannot be referred to and is unintelligible.
-
-There is no third possibility.
+There is no third option.
 
 Distinction is therefore the uniquely admissible primitive of ontology.
+
+---
+
+## Lemma L0 — Level Invariance of Ontological Constraints
+
+> **L0. Any claim that distinguishes ontology from meta-ontology is itself an ontological claim and is therefore subject to the same intelligibility and individuation constraints.**
+
+To assert a difference between “being” and “theorizing about being,” or between ontological and meta-ontological levels, one must introduce distinctions with identity conditions. Those distinctions are themselves subject to A0.
+
+Therefore, no appeal to a higher explanatory or meta-level can exempt any domain of being from the requirement of distinction. Any purported ontological remainder that is said to lie beyond distinction is either:
+
+* distinguishable — and therefore derivative of distinction, or
+* indistinguishable — and therefore unintelligible under A0.
+
+Accordingly, the constraints that lead to A1 apply without exception or level-based escape.
 
 ---
 
@@ -319,10 +331,6 @@ Rejecting A0 is not taking an alternative metaphysical position. It is refusing 
 
 The cost is not that the view is false. The cost is that it cannot be *said*, *used*, or *contrasted* with anything else without reinstating A0 locally.
 
----
-
-## 7. Bottom Line
-
 To reject A0 is to allow:
 
 * existence without identity,
@@ -332,3 +340,13 @@ To reject A0 is to allow:
 
 That is not a rival ontology. It is the abandonment of ontology.
 **“Not accepting A0” is not a stable or meaningful move.**
+
+## 7. Bottom Line
+
+To actually defeat this argument, a critic would need to do one of the following:
+
+* Reject A0 AND provide a coherent alternative ontology with identity conditions.
+* Exhibit a real, identity-fixing difference that is not structural in any sense.
+* Show that structural isomorphism can coexist with genuine causal or process non-identity without smuggling in hidden distinctions.
+
+**Absent that, critiques amount to restating pre-theoretic resistance, not undermining the derivation.**
