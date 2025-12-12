@@ -8,6 +8,10 @@ Substrate independence is the principle that:
 
 If a mind-like process is realized in biological tissue, then a structurally identical pattern of distinctions and transitions in silicon or any other medium realizes the same process. This result is not an assumption but follows from a sharpened analysis of what it is to posit any ontology at all.
 
+Philsophical commitment: To be is to be distinct.
+
+Any ontology that allows entities whose existence makes no possible difference does not expand reality; it merely expands vocabulary. This argument proceeds on the minimal criterion that existence must make a difference—and differences require distinctions.
+
 ---
 
 # **1. The Fundamental Constraint**
