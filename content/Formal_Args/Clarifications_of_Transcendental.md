@@ -104,6 +104,6 @@ The collapse is semantic and conditional, not metaphysical.
 
 ## 6. Summary
 
-These clarifications reinforce, rather than revise, the original thesis. Distinction is formally primitive because denial of distinction does not yield an alternative ontology, but the loss of ontological intelligibility itself. Any further formal articulation—logical, conceptual, or theoretical—must operate within a contrastive space whose minimal structure is already in place.
+Distinction is formally primitive because denial of distinction does not yield an alternative ontology, but the loss of ontological intelligibility itself. Any further formal articulation—logical, conceptual, or theoretical—must operate within a contrastive space whose minimal structure is already in place.
 
 The thesis therefore stands as a claim about the limits of sense, not about the contents of being.
