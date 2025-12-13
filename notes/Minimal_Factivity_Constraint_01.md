@@ -73,6 +73,85 @@ This definition supplies the minimal metaphysical content required for the Minim
 
 ---
 
+## Limit of Articulation — Difference as Entry Condition
+
+### 1. Why “difference” cannot be further articulated
+The Minimal Factivity Constraint (MFC) functions as an **entry condition**, not a substantive ontology.  
+Any attempt to specify *what kind* of difference (causal, modal, structural, explanatory) immediately
+adds internal structure and therefore exceeds the role of a lower-bound constraint.
+
+The pressure to further articulate difference is thus a **category mistake**: it asks for internal
+articulation at the level where only admission conditions apply.
+
+**Conclusion:**  
+Difference cannot be further specified without proposing a conception of reality.  
+This is not a defect but a structural limit.
+
+---
+
+### 2. Difference as a primitive contrast, not a property
+Difference is **not**:
+- a property possessed by facts,
+- a relation between independently given relata,
+- a metaphysical ingredient added to reality.
+
+Difference is the **minimal success condition for facthood**.
+
+Formulated negatively:
+
+> If there is no contrast between obtaining and not obtaining, then there is no fact.
+
+The MFC enforces this failure condition rather than offering a positive analysis.
+
+---
+
+### 3. Why “it differs by obtaining” fails as a reply
+Appealing to “obtaining” does not generate a difference unless obtaining itself is contrastive.
+
+If “obtaining” introduces no contrast, then invoking it cannot distinguish
+being the case from not being the case.
+
+This is a **formal point**:
+a term cannot perform contrastive work if it is defined so as to make no difference.
+
+**Therefore:**  
+If obtaining is ontologically idle, it cannot ground factivity.
+
+---
+
+### 4. Procedural articulation without metaphysical commitment
+The MFC can be stated **procedurally** rather than ontologically:
+
+> A candidate fact fails to qualify as a fact if removing it from the ontology leaves everything
+> exactly the same, including actuality itself.
+
+This formulation:
+- avoids causation,
+- avoids epistemic conditions,
+- avoids substantive modality,
+- avoids structural commitments.
+
+It enforces exclusion without positing structure.
+
+---
+
+### 5. Why this is not a hidden metaphysics
+All metaphysical frameworks rely on primitive contrasts  
+(e.g., being / non-being, true / false).
+
+The MFC does not introduce a new primitive.  
+It requires that these contrasts **not be empty**.
+
+It refuses to allow “being” to collapse into indifference.
+
+---
+
+### 6. Stopping point
+> **Difference is not what metaphysics explains.  
+> Difference is what makes metaphysical explanation possible.**
+
+Attempting to go further is not clarification; it is a change of project.
+
 ## Constraint Asymmetry
 
 ### Core Claim
