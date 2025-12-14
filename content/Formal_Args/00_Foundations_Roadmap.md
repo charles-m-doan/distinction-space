@@ -14,34 +14,34 @@ All subsequent work belongs to the **implications phase**. That phase does not a
 
 ## Inferential Steps
 
-1. **To Make Any Claim Is to Draw a Distinction**  
+01. **To Make Any Claim Is to Draw a Distinction**  
    Any act of asserting, denying, referring, or predicating requires a contrast: *this rather than not-this*.  
    “Distinction” is used in a minimal, schematic sense: any applicability condition sufficient to differentiate something from its negation. No underlying substrate or bearer is assumed.
 
-2. **Intelligibility Requires Discriminability**  
+02. **Intelligibility Requires Discriminability**  
    If no distinction can be drawn even in principle—no contrast, no criterion of application—then no determinate content is present and no claim has been made.
 
-3. **Any Meaningful Use of “Is” Presupposes Conditions of Application**  
+03. **Any Meaningful Use of “Is” Presupposes Conditions of Application**  
    For “X is” or “X exists” to say anything, there must be conditions under which X would count as what it is rather than not. Absent such conditions, the utterance fails to mean.
 
-4. **Possibility Is a Mode of Meaningful Assertion**  
+04. **Possibility Is a Mode of Meaningful Assertion**  
    “X is possible” asserts *possible rather than impossible*. As such, it inherits the same requirement of application conditions as any other meaningful use of “is.”
 
-5. **Possibility Requires In-Principle Intelligibility**  
+05. **Possibility Requires In-Principle Intelligibility**  
    If nothing could ever count for or against X’s obtaining—if no distinction could, even in principle, be drawn—then “X is possible” collapses into indistinguishability from “X is impossible,” or from saying nothing at all.
 
-6. **Minimal Possibility = Distinguishability in Principle**  
+06. **Minimal Possibility = Distinguishability in Principle**  
    No independent modal primitive is admitted. A purported possibility that lacks contrastive conditions is not a possibility.
 
-7. **Nothing Prior to All Distinction Can Count as Being Anything**  
+07. **Nothing Prior to All Distinction Can Count as Being Anything**  
    Any posit described as prior to, outside of, or more fundamental than distinction lacks application conditions. No predicate—including “exists,” “does not exist,” “grounds,” “is one,” or “is prior”—can apply to it.  
    Such a posit is not rejected as false relative to an independent ontology, because no such ontology is available. It fails to satisfy the constitutive conditions for being anything at all.
 
-8. **There Is No Residual Ontological Contrast Beyond Distinction**  
+08. **There Is No Residual Ontological Contrast Beyond Distinction**  
    Claims that something “exists but cannot be distinguished” do not describe an alternative mode of being. “Exists,” “does not exist,” and “might exist” are all distinction-governed predicates. Once all distinction is removed, no ontological contrast remains for “being” to occupy.
 
-9. **This Constraint Applies Without Exception**  
-   The claims, criteria, and constraints articulated here are themselves higher-order distinctions operating within the same admissible space.  
+09. **This Constraint Applies Without Exception**  
+   The claims, criteria, and constraints articulated here are themselves higher-order distinctions operating within the same admissible space.
    No privileged meta-level is exempt from the requirement of intelligibility through distinction.
 
 10. **No Ontological Surplus Is Admissible**  
