@@ -1,4 +1,4 @@
-# Implications Roadmap
+# Implications
 
 ---
 
@@ -172,7 +172,7 @@ This step retroactively sanitizes all “emergent” talk.
 
 **Narrative task:** Make the sufficiency intuitive without metaphysical overreach.
 
-### **I11. Modeling Distinction-Space (Bitspace as Example)**
+### **I11. Bitspace As A Canonical Model Of Local Distinction-structure**
 
 **Category:** Representational illustration
 
@@ -182,8 +182,6 @@ Introduces Bitspace *explicitly as a model*.
 * No ontological commitment.
 * No generative claim.
 * Purely a way of probing constraint structure.
-
-This is where random walks are carefully framed as **revelatory traversals**, not dynamics.
 
 ---
 
