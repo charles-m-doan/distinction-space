@@ -80,3 +80,77 @@ Where appropriate, briefly indicate:
 * and what would fail downstream if this step were rejected.
 
 This preserves the integrity of the roadmap as a whole.
+
+## 11. Non-Reactive Framing for Unpublished Frameworks
+
+### Constraint
+
+When elaborating the Minimal Admissibility Framework (MAF), **do not use phrasing that presupposes reception, feedback, critique, misunderstanding, or dialogue directed at MAF itself**.
+
+In particular, avoid constructions that imply:
+
+* that MAF has been read, reviewed, or responded to,
+* that MAF has been misunderstood and is now being clarified,
+* that objections have been raised and are being answered,
+* or that the framework occupies an established position within an academic discourse.
+
+Such implications are false at the current stage of the project and introduce illicit sociological background structure.
+
+---
+
+### What Is Allowed
+
+The following are admissible:
+
+* **Anticipatory structural framing**, e.g.:
+
+  * “A likely point of contention concerns …”
+  * “A natural fault line arises at …”
+  * “A potential misclassification would occur if …”
+
+* **General claims about scientific or philosophical practice**, even when reactive in tone, e.g.:
+
+  * “Successful mathematical frameworks are often treated as metaphysically privileged.”
+  * “Foundational programs frequently mistake explanatory power for constitutive authority.”
+
+* **Reactive or critical language directed at external frameworks**, traditions, or methodologies.
+
+These forms anticipate logical or methodological tensions **without attributing any reaction to MAF itself**.
+
+---
+
+### What Is Not Allowed
+
+The following are inadmissible in MAF documents:
+
+* “MAF is sometimes misread as …”
+* “This document clarifies …”
+* “In response to objections …”
+* “Readers may think …”
+* “Critics argue …” (when referring to MAF)
+
+Such phrasing narrates reception or response and should be replaced with direct structural statements.
+
+---
+
+### Replacement Strategy
+
+When tempted to explain *why* a clarification is being made, instead:
+
+* state the constraint directly,
+* state what MAF permits or blocks,
+* or describe the structural relation at issue.
+
+**Say what is true of the framework, not what the framework is reacting to.**
+
+---
+
+### Diagnostic Test
+
+A sentence is admissible only if it remains true and intelligible in a world where:
+
+> **MAF is never read, cited, discussed, or critiqued by anyone.**
+
+If the sentence presupposes readership or response, it violates this rule.
+
+Never imply that MAF has been read, critiqued, or misunderstood. Anticipate structural tensions, but do not write reactively about MAF itself.
