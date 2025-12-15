@@ -1,4 +1,6 @@
-## What This Project Is
+# The Minimal Admissibility Framework (MAF)
+
+## What MAF Is
 
 This project is a **foundational philosophical investigation into the conditions of intelligibility**, together with a constrained demonstration of their sufficiency. Its aim is not to describe what exists in the first instance, but to determine the minimal conditions under which anything can *count* as existing, being possible, being structured, or being subject to explanation at all—and then to show what necessarily follows once those conditions are fixed.
 
@@ -21,7 +23,7 @@ The project is therefore **constitutive, eliminative, and demonstrative**. It fi
 
 ---
 
-## What This Project Is Not
+## What MAF Is Not
 
 This project is **not** a metaphysical theory in the ordinary sense. It does not posit a fundamental inventory of entities, substances, or laws. It does not compete with realism, idealism, physicalism, structuralism, or any other “-ism” understood as a claim about what is ultimately real.
 
