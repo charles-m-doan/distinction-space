@@ -1,6 +1,6 @@
 # On Permitting Nonsense
 
-Discourse about reality can either permit anything or impose constraints on what counts as saying something at all. The Minimal Admissibility Framework adopts the latter stance. It treats disciplined intelligibility as a non-negotiable condition for substantive claims, while allowing unrestricted freedom to gesture, remain silent, or invoke ineffability outside that aim. What follows fixes the consequences of this choice and the distinctions it requires.
+Discourse about reality can either dispense with constraints altogether or operate under conditions that determine what counts as saying something at all. The Minimal Admissibility Framework (MAF) adopts the latter stance. It treats disciplined intelligibility as a constitutive requirement for substantive claims, while allowing unrestricted freedom to gesture, remain silent, or invoke ineffability outside that aim. What follows fixes the consequences of this stance and the distinctions it entails.
 
 ## I. Optionality in a Trivial Sense
 
@@ -34,47 +34,43 @@ This is not a lamentable outcome. It is a structural consequence.
 
 ---
 
-## III. Quietism and Ineffability as Stances
+## III. Quietism and Ineffability as Non-Participating Stances
 
 Quietism and appeals to ineffability are often presented as humility: a refusal to overstep what can be said.
 
-They function instead as epistemic stances rather than contributions to inquiry.
-
-Such stances:
+Functionally, however, such positions do not operate as contributions to inquiry under admissibility constraints. They:
 
 - do not assert claims,
 - do not accept refutation,
 - do not specify conditions of application,
 - and therefore do not participate in the economy of admissible assertion.
 
-This does not render them false. It renders them **non-competitive** with positions that aim to say something determinate about reality.
+This does not render them false, misguided, or illegitimate as human activities. It renders them **non-competitive** with positions that aim to say something determinate about reality.
 
 ---
 
-## IV. A Constitutive Choice
+## IV. Aim-Relative Constraint
 
-A choice is fixed:
+A constraint is fixed, conditional on an aim:
 
-> **Disciplined intelligibility is preferred to maximal permissiveness.**
+> **If the aim is to make substantive, answerable, and exclusionary claims about reality, then disciplined intelligibility is non-optional.**
 
-This choice is not forced by logic alone. It is forced **conditional on an aim**:
+This is not a free-standing preference or policy decision. It is a constitutive requirement that follows once the aim is adopted.
 
-> to speak about reality in ways that are answerable, constraining, and exclusionary.
-
-Those who do not share this aim are not in disagreement here. They are engaged in a different activity.
+Those who do not share this aim are not in disagreement here. They are engaged in a different activity, to which admissibility constraints simply do not apply.
 
 ---
 
 ## V. Non-Arbitrariness of the Constraint
 
-Although this choice is not logically mandatory, it is not arbitrary.
+Although the constraint is conditional on an aim, it is not arbitrary.
 
 Permitting nonsense while retaining the vocabulary of reality, existence, fundamentality, and explanation produces a structural asymmetry:
 
 - nonsense becomes immune to criticism,
 - while disciplined claims remain exposed.
 
-Such asymmetry is untenable. Either admissibility constraints apply to all claims, or the discourse forfeits its right to those terms.
+Such asymmetry is untenable. Either admissibility constraints apply to all claims that deploy this vocabulary, or the discourse forfeits its entitlement to it altogether.
 
 ---
 
@@ -85,7 +81,7 @@ Nothing here entails that:
 - ineffable reality does not exist,
 - silence is illegitimate,
 - poetry or mysticism are meaningless activities,
-- or that all forms of human sense-making must conform to this framework.
+- or that all forms of human sense-making must conform to the MAF.
 
 Only the following is fixed:
 
@@ -102,20 +98,16 @@ Positions that take the form:
 - “Perhaps reality transcends all distinction,” or
 - “What matters cannot be said,”
 
-do not function as internal challenges.
+do not function as internal challenges. They reject the aim under which admissibility has force.
 
-They reject the aim under which admissibility has force.
-
-No response is required beyond that classification.
+No further response is required beyond that classification.
 
 ---
 
 ## Closing
 
-One may permit anything and abandon determinate discourse about reality.
+One may permit anything and relinquish determinate discourse about reality.
 
 Or one may accept constraint and forgo certain gestures of depth.
 
-The latter is chosen.
-
-That choice is the price of saying anything at all.
+The latter is not a preference but a **commitment** implicit in the attempt to say anything determinate at all.

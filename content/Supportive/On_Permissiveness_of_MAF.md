@@ -1,6 +1,6 @@
-# On Permissiveness and Illicit Restriction
+# On The Permissiveness of MAF
 
- *MAF does not add permissiveness; it removes restrictions that were never constitutively justified.*
+*MAF does not add permissiveness; it removes restrictions that were never constitutively justified.*
 
 ## I. Two Sources of Restriction
 
@@ -15,7 +15,7 @@ Restrictions of the second kind are admissible only as derivative and revisable.
 
 ---
 
-## II. Constitutive Constraint Does Not Narrow Possibility
+## II. Constitutive Constraint Does Not Impose Substantive Modal Restrictions
 
 Constitutive constraints fixed by MAF concern:
 
@@ -28,7 +28,7 @@ These constraints do not determine *which* entities exist, *which* laws obtain, 
 
 They determine only what it would be for any such claim to have content.
 
-As a result, constitutive constraint does not narrow the space of possibility. It fixes the space within which possibility can be meaningfully articulated at all.
+As a result, constitutive constraint does not impose substantive modal restrictions. It fixes the conditions under which possibility can be meaningfully articulated at all.
 
 ---
 
@@ -49,7 +49,7 @@ Within MAF, such restrictions are treated as:
 - conditional,
 - and answerable to revision.
 
-They do not propagate upward into constitutive constraint.
+They do not propagate into constitutive constraint.
 
 ---
 
@@ -66,13 +66,13 @@ This occurs when:
 
 In such cases, possibility is narrowed without justification.
 
-The appearance of excessive permissiveness arises only relative to these unearned restrictions.
+**The appearance of excessive permissiveness arises only relative to these unearned restrictions.**
 
 ---
 
 ## V. Permissiveness as Structural Neutrality
 
-MAF permits any posit that satisfies minimal admissibility conditions:
+MAF admits any posit that satisfies minimal admissibility conditions:
 
 - distinguishability from its negation,
 - specification of conditions of application,
@@ -172,7 +172,7 @@ The sense of mandatory restriction arises from unexamined inheritance.
 
 ### 7. Removal of Illicit Restriction as Apparent Permissiveness
 
-When these unearned restrictions are removed, the remaining space of admissible possibility appears unusually large.
+When these unearned restrictions are removed, the remaining field of admissible possibility appears unusually large.
 
 This appearance does not reflect expansion of possibility, but restoration of neutrality.
 
@@ -184,9 +184,9 @@ MAF does not add permissiveness; it removes restrictions that were never constit
 
 MAF does not permit everything.
 
-It permits everything that can be specified without collapse of distinction.
+It admits anything that can be specified without collapse of distinction.
 
-What it refuses to permit are restrictions that:
+What it refuses to admit are restrictions that:
 
 - lack constitutive justification,
 - arise solely from parochial ontology,
