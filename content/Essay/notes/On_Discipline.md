@@ -23,5 +23,21 @@ Entrenchment is not a metaphysical argument.
 
 Once we’re already operating far outside the Middle World—Hilbert spaces, gauge redundancy, renormalization, effective field theories—intuition has *already* failed. What remains is coherence, constraint, and explanatory role. If alternatives are rejected, they should be rejected on those grounds, not because they feel excessive, extravagant, or unfamiliar.
 
+---
+
+## A Common Objection, Made Explicit
+
+**Objection:** *“Without these restrictions, you’re just peddling nonsense.”*
+
+**Reply:** Calling something “nonsense” already presupposes a criterion of admissibility. The disagreement is not about whether constraint is required, but **where it is licensed to operate**.
+
+If the charge means *“without any constraint at all, discourse collapses,”* then the point is conceded—and it supports this view. Distinction is precisely what prevents collapse. What is refused here is not constraint, but **unargued constraint**.
+
+If instead the charge means *“without my preferred ontology or model, discourse collapses,”* then the move is illicit. Restrictions internal to a successful abstraction layer are being promoted to conditions of intelligibility as such. That is a category error.
+
+If something is truly nonsense, the burden is to show **which condition of intelligibility it violates**, not merely which expectations of a familiar model it fails to satisfy. Absent that articulation, “nonsense” does no work. It functions as a refusal, not a discipline.
+
+---
+
 Discipline does not come from narrowing possibility prematurely.
 It comes from being explicit about **where** restriction enters—and refusing to let it masquerade as necessity.
