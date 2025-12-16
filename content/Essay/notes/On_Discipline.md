@@ -16,12 +16,12 @@ Restrictions belong **downstream**, inside models, theories, and abstraction lay
 
 Appeals to “practicality” are fine—as long as they’re owned as practical. They stop being fine the moment they are used to rule out alternative ontological frameworks *in principle*, or to smuggle in claims about what reality really is.
 
-This is why you are not justified in dismissing proposals like Wolfram’s Ruliad, Tegmark’s MUH, Barbour’s Platonia, Barandes’s stochastic processes, or competing interpretations of quantum mechanics simply because they violate your habituated picture.
+This is why you are not justified in dismissing proposals like String Theory, Loop Quantum Gravity, Wolfram’s Ruliad, Tegmark’s MUH, Barbour’s Platonia, Barandes’s stochastic processes, or competing interpretations of quantum mechanics simply because they violate your habituated picture.
 
 Familiarity is not a criterion of intelligibility.
 Entrenchment is not a metaphysical argument.
 
-Once we’re already operating far outside the Middle World—Hilbert spaces, gauge redundancy, renormalization, effective field theories—intuition has *already* failed. What remains is coherence, constraint, and explanatory role. If alternatives are rejected, they should be rejected on those grounds, not because they feel excessive, extravagant, or unfamiliar.
+Once we’re already operating far outside the "Middle World"—Hilbert spaces, gauge redundancy, renormalization, effective field theories—intuition has *already* failed. What remains is coherence, constraint, and explanatory role. If alternatives are rejected, they should be rejected on those grounds, not because they feel excessive, extravagant, or unfamiliar.
 
 ---
 
