@@ -1,4 +1,4 @@
-# On Austerity and the Location of Constraint
+# On the Austerity of the Distinction Constraint (DC)
 
 *DC eliminates illegitimate depth, not admissible structure.*
 
@@ -11,7 +11,7 @@ Constraints can apply in at least two distinct ways:
 
 Failure to distinguish these dimensions leads to systematic misclassification of constraint.
 
-The Distinction Constraint (DC) applies constraints exclusively along the first dimension.
+The DC applies constraints exclusively along the first dimension.
 
 ---
 

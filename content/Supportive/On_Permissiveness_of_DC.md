@@ -1,6 +1,6 @@
-# On The Permissiveness of DC
+# On The Permissiveness of the Distinction Constraint
 
-*DC does not add permissiveness; it removes restrictions that were never constitutively justified.*
+*The Distinction Constraint does not add permissiveness; it removes restrictions that were never constitutively justified.*
 
 ## I. Two Sources of Restriction
 
@@ -176,7 +176,7 @@ When these unearned restrictions are removed, the remaining field of admissible 
 
 This appearance does not reflect expansion of possibility, but restoration of neutrality.
 
-DC does not add permissiveness; it removes restrictions that were never constitutively justified.
+The Distinction Constraint does not add permissiveness; it removes restrictions that were never constitutively justified.
 
 ---
 
