@@ -82,4 +82,16 @@ Everything else—objects, laws, explanations, even whole theories—comes later
 
 That is the entire point.
 
-Nothing deeper is being claimed—and nothing deeper is needed.
+## To be is to be distinct
+
+At this stage the claim can be put plainly, without drama or metaphor.
+
+To say that something is—that it exists, that it obtains, that it is real rather than not—is just to say that it is distinct. Not distinct in the sense of being sharply bounded, isolated, or fully known, but distinct in the minimal sense that there is a difference between its being the case and its not being the case.
+
+Nothing more basic than this is doing any work. There is no further ingredient called “being” that gets added on top of distinction. There is no deeper layer in which things exist without being distinguishable. Whenever we successfully take something to be, a distinction is already in play.
+
+This is why the slogan is not a theory, and not a definition. It is a reminder of what is already happening whenever anything counts as anything at all:
+
+*To be is to be distinct.*
+
+Nothing deeper is being claimed—and nothing deeper is available.
