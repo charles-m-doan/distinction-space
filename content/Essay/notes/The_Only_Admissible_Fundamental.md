@@ -1,0 +1,13 @@
+# Distinction as the Only Admissible Fundamental
+
+It is tempting to describe the Distinction Constraint as a limitation on language, representation, or postulation. Such descriptions are understandable, but they are ultimately inadequate. They suggest that there is a further question about how reality itself might be, independent of the conditions under which it can be said to be anything at all. The Distinction Constraint denies that this further question has a coherent formulation.
+
+The constraint does not state that reality *obeys* distinction, as though distinction were a rule imposed on a pre-existing domain. Nor does it claim that reality is produced, constructed, or mediated by acts of distinction. Rather, it fixes what it is for anything to *count* as real, existent, or fundamental in the first place.
+
+Any use of existential or ontological vocabulary—“is,” “exists,” “is fundamental,” “is real”—presupposes conditions of application. Those conditions are exhausted by distinction: by the possibility of something counting as this rather than not-this. Where no such distinction is available, no ontological predicate can apply. This is not a limitation on what we can say about reality; it is a fixation of what the word “reality” can coherently be used to denote.
+
+For this reason, distinction is not one candidate for fundamentality among others. It is the only thing that can coherently occupy the role of the fundamental—not as an entity, substrate, structure, or principle, but as the constitutive condition under which anything can be anything at all. Attempts to posit a fundamental reality prior to or independent of distinction do not describe a deeper level of being; they remove the conditions under which “being,” “prior,” or “independent” could apply.
+
+The Distinction Constraint therefore reaches as far as reality itself, not by constraining an antecedently given domain, but by exhausting the space of admissible ontological application. There is no residual question of what reality might be “in itself” beyond distinction, because that question presupposes a contrast the constraint has already shown to be unavailable.
+
+This is why the result is neither linguistic, epistemic, nor metaphysical in the traditional sense. It does not say that language fails, that knowledge is limited, or that reality depends on minds. It says that **distinction is all that can coherently be fundamental**, because anything that could count as fundamental must already be distinguishable from not being so.
