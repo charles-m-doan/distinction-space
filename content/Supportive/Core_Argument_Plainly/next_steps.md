@@ -1,4 +1,3 @@
-```markdown
 # Transition Plan: From “How Did This Begin?” to “What Follows?”
 
 ## Purpose of This Sequence
@@ -174,4 +173,3 @@ and instead begins asking:
 > “Okay—given that this never ‘started’, what follows?”
 
 That question marks readiness to move from **Foundations** to **Implications**.
-```
