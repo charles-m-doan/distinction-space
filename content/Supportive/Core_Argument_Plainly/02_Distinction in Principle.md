@@ -59,7 +59,7 @@ So claims like:
 * “We just can’t see it yet,” or
 * “It may be discovered in the future,”
 
-are perfectly compatible with the claim that being requires distinction.
+are perfectly compatible with the claim that *being* requires distinction.
 
 They presuppose it.
 

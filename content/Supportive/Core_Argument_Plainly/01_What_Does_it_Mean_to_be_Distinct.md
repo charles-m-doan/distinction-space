@@ -1,4 +1,4 @@
-# To Be Is To Be Distinct
+# What Does it Mean to be Distinct?
 
 Imagine trying to point something out.
 
@@ -6,7 +6,7 @@ Not necessarily with words. Just imagine trying to take *something* to be the ca
 
 What is the least that must be in place for this to succeed?
 
-Before theories, before explanations, before language or science, something very simple has to happen: **there has to be a difference**. There has to be *this* rather than *not this*. If nothing distinguishes what you are trying to take to be the case from its negation, then nothing has been determined. There is nothing there to get right or wrong.
+Before theories, before explanations, before language or science, something very simple has to happen: **there has to be a difference**. A **contrast.** There has to be *this* rather than *not this*. If nothing distinguishes what you are trying to take to be the case from its negation, then nothing has been determined. There is nothing there to get right or wrong.
 
 This is not a claim about how people think. It is not a claim about how language works. It is a claim about what it takes for *anything* to count as anything at all.
 
