@@ -136,4 +136,6 @@ Not because nothing is happening, and not because explanation has failed, but be
 
 Distinction does not need to be implemented. It is what makes implementation intelligible at all.
 
-When that is seen, the question finally comes to rest—not with an answer, but with the realization that there was nowhere for it to go.
+If you find this unsatisfying, that's quite understandable. It's because this does not do what explanations normally do. It does not tell a story, identify a mechanism, or point to a deeper process. It cannot.
+
+What it does instead is fix a constraint: the condition under which any story, mechanism, or process could count as explaining anything at all.
