@@ -1,0 +1,125 @@
+# No Semantic-to-Ontological Slide in the Foundations
+
+## Purpose
+
+A predictable point of misunderstanding in the Foundations of the Distinction Constraint (DC) is the impression that the argument begins with claims about language or meaning and then *transitions* to claims about reality.
+
+The aim here is not to defend the framework rhetorically, but to **fix exactly what kind of reasoning is being carried out**, where its scope lies, and why no semantic → ontological leap occurs at any stage.
+
+---
+
+## The Misreading to Be Blocked
+
+A common reconstruction runs as follows:
+
+> 1. The early steps talk about language, meaning, or discourse.
+> 2. Later steps draw conclusions about what exists or what reality can be.
+> 3. Therefore, the framework illicitly promotes linguistic facts into ontological conclusions.
+
+This reconstruction is incorrect. It presupposes a division between *language* and *reality* that the Foundations never accept, and indeed explicitly diagnose as confused.
+
+---
+
+## What the Foundations Are Actually About
+
+From the first step onward, the Foundations are concerned with **claimhood as such**:
+
+* what it is to assert,
+* what it is to deny,
+* what it is for a predicate to apply,
+* what it is for a claim to exclude its negation.
+
+These are not features of a special domain called “language.” They are the **constitutive conditions under which anything can count as anything at all**—including purported claims about reality.
+
+No object called *language* is introduced as a subject matter. No representational relation is posited. No distinction is drawn between “how we talk” and “how things really are.”
+
+What is fixed instead are the **conditions under which any use of ‘is,’ ‘exists,’ ‘possible,’ or ‘real’ can have determinate content at all**.
+
+---
+
+## Why Early Steps Sound Linguistic
+
+The early steps (e.g. F01–F03) necessarily speak in terms of:
+
+* claims,
+* assertions,
+* applicability conditions,
+* meaningful use of predicates.
+
+This is unavoidable, because the task is **constitutive** rather than descriptive. One cannot fix the conditions of determinacy without talking about what it takes for something to *count as saying something*.
+
+But this does not make the argument linguistic in scope.
+
+Crucially:
+
+> The same applicability conditions govern claims about words, electrons, gods, numbers, or “reality itself.”
+
+No later step applies a rule derived for language to a separate domain called reality. The rule was never domain-restricted to begin with.
+
+---
+
+## The Illusion of a Transition Point
+
+Readers often locate the supposed semantic → ontological transition at a step like:
+
+> **F07 – Nothing prior to all distinction can count as being anything.**
+
+This can feel like the first genuinely metaphysical claim.
+
+Structurally, however, F07 does not introduce a new kind of reasoning. It simply **applies the already-fixed conditions of application to a limiting case**: a posit explicitly described as outside all distinction.
+
+The result is not that such a posit is *false*, but that the description removes the conditions under which existential predicates could apply to it at all.
+
+Nothing metaphysical is added. No semantic principle is promoted. The same constraint has been in force from the beginning.
+
+---
+
+## Why the Result Applies to Reality
+
+The conclusion applies to reality because:
+
+* “Reality,” “being,” and “existence” are themselves distinction-governed predicates.
+* There is no admissible sense of these terms that floats free of application conditions.
+
+Once this is fixed, the question
+
+> “But does this apply only to language, or also to reality?”
+
+loses its footing.
+
+There is no coherent notion of *reality* left that could stand outside the conditions under which claims about reality are made. The supposed gap between intelligibility and being was never a space to be crossed.
+
+---
+
+## What the Foundations Do *Not* Claim
+
+To prevent further misclassification, it is essential to note what the Foundations do not do:
+
+* They do **not** claim that language constructs reality.
+* They do **not** reduce being to linguistic convention.
+* They do **not** infer ontological theses from facts about words.
+* They do **not** treat semantics as metaphysical foundation.
+
+They fix **constitutive admissibility**, not representational structure.
+
+---
+
+## The Correct Characterization
+
+The correct characterization of the Foundations is therefore:
+
+> They fix the conditions under which anything can count as something at all, and show that once those conditions are made explicit, there is no coherent remainder for “reality” to occupy beyond them.
+
+This is neither a semantic thesis nor a metaphysical one in the traditional sense. It is a **constitutive closure**.
+
+There is no point at which the argument “leaves language behind,” because it was never operating on language as a separate domain in the first place.
+
+---
+
+## Summary
+
+* The appearance of a semantic → ontological slide is generated by an imported distinction the framework explicitly rejects.
+* The Foundations never shift subject matter; they fix admissibility conditions from the start.
+* Later ontological consequences are not additional claims, but unavoidable closures once those conditions are taken seriously.
+
+Misunderstanding this structure leads to misclassifying the framework as linguistic, deflationary, or representational.

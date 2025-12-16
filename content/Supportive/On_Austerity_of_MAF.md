@@ -1,6 +1,6 @@
 # On Austerity and the Location of Constraint
 
-*MAF eliminates illegitimate depth, not admissible structure.*
+*DC eliminates illegitimate depth, not admissible structure.*
 
 ## I. Two Dimensions of Constraint
 
@@ -11,13 +11,13 @@ Constraints can apply in at least two distinct ways:
 
 Failure to distinguish these dimensions leads to systematic misclassification of constraint.
 
-The Minimal Admissibility Framework (MAF) applies constraints exclusively along the first dimension.
+The Distinction Constraint (DC) applies constraints exclusively along the first dimension.
 
 ---
 
 ## II. Foundational Constraint
 
-At the foundational level, MAF fixes conditions under which predicates such as “exists,” “is,” “is possible,” and “is fundamental” can be meaningfully applied.
+At the foundational level, DC fixes conditions under which predicates such as “exists,” “is,” “is possible,” and “is fundamental” can be meaningfully applied.
 
 These conditions rule out:
 
@@ -32,7 +32,7 @@ These eliminations are constitutive rather than comparative. They do not rely on
 
 ## III. Absence of Constraint on Ontological Variety
 
-MAF imposes no restrictions on:
+DC imposes no restrictions on:
 
 - the kinds of entities that may exist,
 - the number or nature of laws,
@@ -50,7 +50,7 @@ No further limitation is imposed.
 
 Many frameworks restrict ontological variety while permitting unrestricted appeals to fundamentality.
 
-MAF reverses this distribution:
+DC reverses this distribution:
 
 - ontological variety is unconstrained,
 - foundational privilege is denied.
@@ -63,7 +63,7 @@ This exclusion applies only at the foundational level.
 
 ## V. Status of Structure
 
-MAF does not eliminate structure.
+DC does not eliminate structure.
 
 Identity, persistence, regularity, causation, modality, explanation, and ontology remain admissible.
 
@@ -75,7 +75,7 @@ What is excluded is the claim that such structure must be underwritten by someth
 
 ## VI. On the Source of Starkness
 
-Any sense of starkness introduced by MAF results from the absence of certain kinds of metaphysical termination:
+Any sense of starkness introduced by DC results from the absence of certain kinds of metaphysical termination:
 
 - no deeper layer beneath admissibility,
 - no ultimate explanatory inventory,
@@ -87,7 +87,7 @@ These absences reflect the location of constraint, not a restriction on what may
 
 ## VII. Summary
 
-MAF is restrictive only with respect to foundational admissibility.
+DC is restrictive only with respect to foundational admissibility.
 
 It is permissive with respect to ontological variety.
 

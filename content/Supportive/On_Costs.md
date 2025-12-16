@@ -2,11 +2,11 @@
 
 ## Orientation
 
-Once the constitutive constraints articulated by the Minimal Admissibility Framework (MAF) are accepted, a predictable set of questions arises:
+Once the constitutive constraints articulated by the Distinction Constraint (DC) are accepted, a predictable set of questions arises:
 
-1. In what sense—if any—the MAF should be regarded as metaphysical.
-2. What is lost if the MAF is rejected.
-3. What is lost by accepting the MAF.
+1. In what sense—if any—the DC should be regarded as metaphysical.
+2. What is lost if the DC is rejected.
+3. What is lost by accepting the DC.
 
 What follows makes explicit the **structural consequences of acceptance or rejection**, and blocks a set of recurring category errors that misclassify those consequences as optional theoretical commitments or metaphysical preferences.
 
@@ -18,7 +18,7 @@ Nothing here introduces new primitives, assumptions, or theses. The aim is to re
 
 ### I.1 Why the Foundations Are Not Metaphysics in the Traditional Sense
 
-At the level of the Foundations, the MAF does not describe reality, posit entities, or assert a structure of being. It fixes the **conditions under which any description, posit, or assertion could count as anything at all**.
+At the level of the Foundations, the DC does not describe reality, posit entities, or assert a structure of being. It fixes the **conditions under which any description, posit, or assertion could count as anything at all**.
 
 Accordingly, the foundational claims are:
 
@@ -42,13 +42,13 @@ As a result:
 
 These consequences are not additional metaphysical commitments. They are the downstream effects of fixing what it is to make claims at all. Nothing is inferred about reality beyond intelligibility; rather, the idea of a reality that could outrun intelligibility is dissolved.
 
-In this sense, the MAF has metaphysical consequences without beginning from metaphysics. The necessity flows from **constitutive constraint**, not from ontological postulation.
+In this sense, the DC has metaphysical consequences without beginning from metaphysics. The necessity flows from **constitutive constraint**, not from ontological postulation.
 
 ---
 
 ### I.3 A Precise Characterization
 
-The MAF is therefore best characterized as:
+The DC is therefore best characterized as:
 
 * **Constitutive at the foundations**: it fixes what it is for anything to count as something at all.
 * **Structurally constraining at the implications level**: it articulates what reality must be like insofar as existential and explanatory vocabulary is to apply.
@@ -57,9 +57,9 @@ This is not metaphysics as the discovery of the world’s fundamental furniture.
 
 ---
 
-## II. The Cost of Rejecting the MAF
+## II. The Cost of Rejecting the DC
 
-Rejecting the MAF is not a matter of adopting an alternative metaphysical position within a shared space. It is a refusal to accept the constitutive constraints that make any such space available in the first place.
+Rejecting the DC is not a matter of adopting an alternative metaphysical position within a shared space. It is a refusal to accept the constitutive constraints that make any such space available in the first place.
 
 The costs of rejection are therefore not theoretical disagreements, but **semantic and structural losses**.
 
@@ -91,7 +91,7 @@ The rejection of constitutive constraint does not yield metaphysical freedom. It
 
 ### II.3 Loss of a Non-Arbitrary Boundary for Metaphysics
 
-Absent the MAF, there is no principled way to distinguish:
+Absent the DC, there is no principled way to distinguish:
 
 * Metaphysical claims from pseudo-metaphysical gestures.
 * Legitimate abstraction from illicit fundamentality.
@@ -101,9 +101,9 @@ Metaphysics oscillates between unbounded speculation and deflationary quietism. 
 
 ---
 
-## III. The Cost of Accepting the MAF
+## III. The Cost of Accepting the DC
 
-Accepting the MAF is not cost-free. It eliminates entire classes of concepts, intuitions, and aspirations that are deeply entrenched in philosophical and scientific practice.
+Accepting the DC is not cost-free. It eliminates entire classes of concepts, intuitions, and aspirations that are deeply entrenched in philosophical and scientific practice.
 
 These eliminations are not optional. They follow directly from the constitutive constraints.
 
@@ -123,7 +123,7 @@ Ontology survives only as **abstraction**, not as foundation. This is a genuine 
 
 ### III.2 Loss of Ultimate Explanation
 
-The MAF blocks the aspiration to total explanation:
+The DC blocks the aspiration to total explanation:
 
 * There is no explanation of why there is intelligibility at all.
 * There is no explanation of why distinction obtains.
@@ -147,7 +147,7 @@ This excludes possible-worlds realism, primitive modality, and appeals to uncons
 
 ### III.4 Loss of Metaphysical Reassurance
 
-Finally, the MAF eliminates certain forms of philosophical comfort:
+Finally, the DC eliminates certain forms of philosophical comfort:
 
 * There is no hidden depth where mysteries are resolved.
 * There is no metaphysical safety net beneath structure.
@@ -166,7 +166,7 @@ What remains after these eliminations is not thin or deflationary.
 * Explanation remains—locally, comparatively, and layer-relatively.
 * Ontology remains—as a tool of abstraction and compression.
 
-The MAF does not impoverish metaphysics. It **disciplines it**.
+The DC does not impoverish metaphysics. It **disciplines it**.
 
 Once the conditions of admissibility are made explicit, nothing further is needed—and nothing further can be coherently demanded.
 
@@ -174,12 +174,12 @@ Once the conditions of admissibility are made explicit, nothing further is neede
 
 ## Closing
 
-Accepting the MAF commits one to a demanding but stable position:
+Accepting the DC commits one to a demanding but stable position:
 
 * Reality cannot outrun intelligibility, because intelligibility exhausts what “reality” can coherently mean.
 * Metaphysics cannot outrun admissibility.
 * Explanation cannot outrun its own conditions.
 
-Rejecting the MAF does not preserve metaphysical possibility. It forfeits the determinacy required to say anything substantive about reality at all.
+Rejecting the DC does not preserve metaphysical possibility. It forfeits the determinacy required to say anything substantive about reality at all.
 
 This asymmetry is the central wager of the project.

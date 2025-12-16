@@ -2,11 +2,11 @@
 
 ## Orientation
 
-The relationship between the Minimal Admissibility Framework (MAF) and contemporary **computational approaches to physics and ontology** is clarified here, with particular attention to the work of **Stephen Wolfram**.
+The relationship between the Distinction Constraint (DC) and contemporary **computational approaches to physics and ontology** is clarified here, with particular attention to the work of **Stephen Wolfram**.
 
 The concern is not technical correctness or empirical adequacy. It is the proper placement of such approaches within the **Foundations / Implications** architecture, distinguishing **methodological legitimacy** from **metaphysical overreach**.
 
-MAF is conservative with respect to scientific practice. Its effect is classificatory and interpretive rather than programmatic.
+DC is conservative with respect to scientific practice. Its effect is classificatory and interpretive rather than programmatic.
 
 ---
 
@@ -20,9 +20,9 @@ This prominence is methodologically well-motivated:
 * It supports non-perturbative investigation of structure.
 * It renders emergent regularities visible without premature analytic closure.
 
-Within MAF, computational methodology is an admissible abstraction layer: precise, manipulable, and structurally revealing. No principled objection is raised against its use.
+Within DC, computational methodology is an admissible abstraction layer: precise, manipulable, and structurally revealing. No principled objection is raised against its use.
 
-Accordingly, MAF does not recommend any redirection of scientific practice. It leaves the trajectory of computational physics intact.
+Accordingly, DC does not recommend any redirection of scientific practice. It leaves the trajectory of computational physics intact.
 
 ---
 
@@ -36,7 +36,7 @@ Notable features include:
 * Emphasis on emergence over analytic closure.
 * Openness to non-canonical ontological proposals.
 
-These features are consistent with MAF’s rejection of constitutive ontological privilege. As methodology, Wolfram’s program aligns naturally with a framework that treats ontology as abstraction layer rather than foundation.
+These features are consistent with DC’s rejection of constitutive ontological privilege. As methodology, Wolfram’s program aligns naturally with a framework that treats ontology as abstraction layer rather than foundation.
 
 ---
 
@@ -51,7 +51,7 @@ The issue is whether such structures are treated as:
 * **abstraction layers** — model-relative, revisable, and non-exhaustive, or
 * **constitutive domains** — taken to delimit what reality can be.
 
-MAF blocks only the latter move.
+DC blocks only the latter move.
 
 A computational framework may be maximally general within its representational scope without thereby exhausting reality in the constitutive sense.
 
@@ -61,7 +61,7 @@ A computational framework may be maximally general within its representational s
 
 Many computational approaches rely on **generativity**: the idea that explanation consists in showing how complex structure is produced from simpler rules.
 
-Within MAF, a distinction is enforced:
+Within DC, a distinction is enforced:
 
 * Generative accounts are legitimate within abstraction layers.
 * They become illicit when promoted to explanations of why admissibility itself obtains.
@@ -74,7 +74,7 @@ This preserves the explanatory power of computation while blocking its elevation
 
 ## V. Practical Consequences
 
-At the level of practice, MAF entails little change:
+At the level of practice, DC entails little change:
 
 * Computational exploration remains central.
 * Rule-based modeling remains legitimate.
@@ -90,7 +90,7 @@ This reclassification weakens resistance to alternative ontologies without under
 
 ## VI. Structural Permissiveness
 
-MAF is structurally permissive rather than restrictive.
+DC is structurally permissive rather than restrictive.
 
 It allows:
 
@@ -108,7 +108,7 @@ In this respect, computational methodology is liberated from metaphysical overco
 
 * Computational approaches are methodologically indispensable.
 * Wolfram’s program exemplifies their exploratory strengths.
-* Such approaches are fully compatible with MAF as abstraction layers.
-* The sole constraint imposed by MAF concerns claims of exhaustiveness or fundamentality.
+* Such approaches are fully compatible with DC as abstraction layers.
+* The sole constraint imposed by DC concerns claims of exhaustiveness or fundamentality.
 
-MAF does not oppose computation. It opposes the conflation of **explanatory success** with **constitutive authority**.
+DC does not oppose computation. It opposes the conflation of **explanatory success** with **constitutive authority**.

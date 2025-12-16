@@ -85,12 +85,12 @@ This preserves the integrity of the roadmap as a whole.
 
 ### Constraint
 
-When elaborating the Minimal Admissibility Framework (MAF), **do not use phrasing that presupposes reception, feedback, critique, misunderstanding, or dialogue directed at MAF itself**.
+When elaborating the Distinction Constraint (DC), **do not use phrasing that presupposes reception, feedback, critique, misunderstanding, or dialogue directed at DC itself**.
 
 In particular, avoid constructions that imply:
 
-* that MAF has been read, reviewed, or responded to,
-* that MAF has been misunderstood and is now being clarified,
+* that DC has been read, reviewed, or responded to,
+* that DC has been misunderstood and is now being clarified,
 * that objections have been raised and are being answered,
 * or that the framework occupies an established position within an academic discourse.
 
@@ -115,19 +115,19 @@ The following are admissible:
 
 * **Reactive or critical language directed at external frameworks**, traditions, or methodologies.
 
-These forms anticipate logical or methodological tensions **without attributing any reaction to MAF itself**.
+These forms anticipate logical or methodological tensions **without attributing any reaction to DC itself**.
 
 ---
 
 ### What Is Not Allowed
 
-The following are inadmissible in MAF documents:
+The following are inadmissible in DC documents:
 
-* “MAF is sometimes misread as …”
+* “DC is sometimes misread as …”
 * “This document clarifies …”
 * “In response to objections …”
 * “Readers may think …”
-* “Critics argue …” (when referring to MAF)
+* “Critics argue …” (when referring to DC)
 
 Such phrasing narrates reception or response and should be replaced with direct structural statements.
 
@@ -138,7 +138,7 @@ Such phrasing narrates reception or response and should be replaced with direct 
 When tempted to explain *why* a clarification is being made, instead:
 
 * state the constraint directly,
-* state what MAF permits or blocks,
+* state what DC permits or blocks,
 * or describe the structural relation at issue.
 
 **Say what is true of the framework, not what the framework is reacting to.**
@@ -149,8 +149,8 @@ When tempted to explain *why* a clarification is being made, instead:
 
 A sentence is admissible only if it remains true and intelligible in a world where:
 
-> **MAF is never read, cited, discussed, or critiqued by anyone.**
+> **DC is never read, cited, discussed, or critiqued by anyone.**
 
 If the sentence presupposes readership or response, it violates this rule.
 
-Never imply that MAF has been read, critiqued, or misunderstood. Anticipate structural tensions, but do not write reactively about MAF itself.
+Never imply that DC has been read, critiqued, or misunderstood. Anticipate structural tensions, but do not write reactively about DC itself.

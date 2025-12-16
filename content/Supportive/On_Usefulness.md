@@ -1,29 +1,29 @@
 # On Usefulness and Disciplined Constraint
 
-**MAF does not generate new theories; it constrains what can count as a theory at all.**
+**DC does not generate new theories; it constrains what can count as a theory at all.**
 
 ---
 
 ## I. Usefulness as Structural, Not Productive
 
-The usefulness of the Minimal Admissibility Framework (MAF) does not consist in producing models, explanations, or predictions.
+The usefulness of the Distinction Constraint (DC) does not consist in producing models, explanations, or predictions.
 
 It consists in fixing constraints on admissibility that operate prior to such activities.
 
-MAF is therefore useful in the same sense that logic, consistency conditions, or dimensional analysis are useful: it does not add content, but it governs what can count as content.
+DC is therefore useful in the same sense that logic, consistency conditions, or dimensional analysis are useful: it does not add content, but it governs what can count as content.
 
 ---
 
 ## II. Elimination of Illicit Moves
 
-MAF blocks a class of moves that routinely destabilize inquiry:
+DC blocks a class of moves that routinely destabilize inquiry:
 
 - treating representational convenience as ontological necessity,
 - treating explanatory stopping points as revelations of fundamentality,
 - treating abstraction layers as metaphysical bedrock,
 - treating unresolved interpretation as ontological ambiguity.
 
-By rendering these moves inadmissible, MAF prevents downstream work from inheriting unearned commitments.
+By rendering these moves inadmissible, DC prevents downstream work from inheriting unearned commitments.
 
 This elimination is conservative rather than disruptive: it removes only what was never constitutively licensed.
 
@@ -31,7 +31,7 @@ This elimination is conservative rather than disruptive: it removes only what wa
 
 ## III. Clarification of Where Work Must Be Done
 
-Within MAF, substantive work cannot be displaced onto foundations.
+Within DC, substantive work cannot be displaced onto foundations.
 
 As a result:
 
@@ -46,7 +46,7 @@ This relocation does not resolve disputes. It makes clear where resolution, if a
 
 ## IV. Preservation of Model Pluralism Without Collapse
 
-MAF permits multiple, incompatible models to coexist without requiring reduction to a single privileged ontology.
+DC permits multiple, incompatible models to coexist without requiring reduction to a single privileged ontology.
 
 This is possible because:
 
@@ -62,7 +62,7 @@ Disagreement remains substantive because admissibility conditions are shared.
 
 ## V. Constraint Without Premature Closure
 
-MAF provides closure at the level of admissibility without closing inquiry at the level of structure.
+DC provides closure at the level of admissibility without closing inquiry at the level of structure.
 
 - Foundational regress is terminated.
 - Ontological exploration remains open.
@@ -78,7 +78,7 @@ It allows inquiry to move forward without deferring sense-making to an unreachab
 
 A significant portion of conceptual confusion arises from appeals that simulate depth without supplying constraint.
 
-MAF blocks such appeals by requiring:
+DC blocks such appeals by requiring:
 
 - contrast,
 - exclusion,
@@ -96,7 +96,7 @@ The framework’s usefulness here is eliminative rather than constructive.
 
 ## VII. Stability Across Domains
 
-Because MAF fixes only constitutive admissibility, it applies uniformly across domains:
+Because DC fixes only constitutive admissibility, it applies uniformly across domains:
 
 - physics,
 - metaphysics,
@@ -112,7 +112,7 @@ This uniformity prevents domain-specific assumptions from silently acquiring fou
 
 ## VIII. Summary
 
-MAF is useful because it:
+DC is useful because it:
 
 - terminates illegitimate regress without explanation,
 - preserves pluralism without relativism,

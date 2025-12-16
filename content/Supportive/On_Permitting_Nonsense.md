@@ -1,6 +1,6 @@
 # On Permitting Nonsense
 
-Discourse about reality can either dispense with constraints altogether or operate under conditions that determine what counts as saying something at all. The Minimal Admissibility Framework (MAF) adopts the latter stance. It treats disciplined intelligibility as a constitutive requirement for substantive claims, while allowing unrestricted freedom to gesture, remain silent, or invoke ineffability outside that aim. What follows fixes the consequences of this stance and the distinctions it entails.
+Discourse about reality can either dispense with constraints altogether or operate under conditions that determine what counts as saying something at all. The Distinction Constraint (DC) adopts the latter stance. It treats disciplined intelligibility as a constitutive requirement for substantive claims, while allowing unrestricted freedom to gesture, remain silent, or invoke ineffability outside that aim. What follows fixes the consequences of this stance and the distinctions it entails.
 
 ## I. Optionality in a Trivial Sense
 
@@ -81,7 +81,7 @@ Nothing here entails that:
 - ineffable reality does not exist,
 - silence is illegitimate,
 - poetry or mysticism are meaningless activities,
-- or that all forms of human sense-making must conform to the MAF.
+- or that all forms of human sense-making must conform to the DC.
 
 Only the following is fixed:
 

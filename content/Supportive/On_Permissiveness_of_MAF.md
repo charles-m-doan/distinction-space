@@ -1,6 +1,6 @@
-# On The Permissiveness of MAF
+# On The Permissiveness of DC
 
-*MAF does not add permissiveness; it removes restrictions that were never constitutively justified.*
+*DC does not add permissiveness; it removes restrictions that were never constitutively justified.*
 
 ## I. Two Sources of Restriction
 
@@ -9,7 +9,7 @@ Restrictions on what may exist, occur, or be possible can arise from two fundame
 1. **Constitutive constraint** — limits imposed by the conditions under which anything can count as something at all.
 2. **Ontological restriction** — limits imposed by a particular theory, model, or abstraction layer.
 
-The Minimal Admissibility Framework (MAF) recognizes only the first as foundational.
+The Distinction Constraint (DC) recognizes only the first as foundational.
 
 Restrictions of the second kind are admissible only as derivative and revisable.
 
@@ -17,7 +17,7 @@ Restrictions of the second kind are admissible only as derivative and revisable.
 
 ## II. Constitutive Constraint Does Not Impose Substantive Modal Restrictions
 
-Constitutive constraints fixed by MAF concern:
+Constitutive constraints fixed by DC concern:
 
 - applicability of predicates,
 - exclusion of negation,
@@ -43,7 +43,7 @@ Examples include:
 - regularities characteristic of a particular regime,
 - laws or symmetries posited within an ontology.
 
-Within MAF, such restrictions are treated as:
+Within DC, such restrictions are treated as:
 
 - local,
 - conditional,
@@ -72,7 +72,7 @@ In such cases, possibility is narrowed without justification.
 
 ## V. Permissiveness as Structural Neutrality
 
-MAF admits any posit that satisfies minimal admissibility conditions:
+DC admits any posit that satisfies minimal admissibility conditions:
 
 - distinguishability from its negation,
 - specification of conditions of application,
@@ -176,13 +176,13 @@ When these unearned restrictions are removed, the remaining field of admissible 
 
 This appearance does not reflect expansion of possibility, but restoration of neutrality.
 
-MAF does not add permissiveness; it removes restrictions that were never constitutively justified.
+DC does not add permissiveness; it removes restrictions that were never constitutively justified.
 
 ---
 
 ## VII. Summary
 
-MAF does not permit everything.
+DC does not permit everything.
 
 It admits anything that can be specified without collapse of distinction.
 
