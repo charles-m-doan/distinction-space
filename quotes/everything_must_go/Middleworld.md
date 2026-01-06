@@ -1,0 +1,3 @@
+"... However, proficiency in inferring the large-scale and small-scale scale structure of our immediate environment, or any features of parts of the universe distant from our ancestral stomping grounds, was of no relevance to our ancestors' reproductive fitness. Hence, there is no reason to imagine that our habitual intuitions and inferential responses are well designed for science or for metaphysics."
+
+James Ladyman;Don Ross;David Spurrett;John Collier. Every Thing Must Go: Metaphysics Naturalized (Kindle Locations 90-92). Kindle Edition.
