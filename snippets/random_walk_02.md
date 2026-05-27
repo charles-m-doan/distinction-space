@@ -115,4 +115,5 @@ Here is a single statement that captures everything without ambiguity:
 
 > **“Random walk” refers to the idea that a possible history of distinctions, in the absence of any prior structure or bias, must be representable as an unbiased extension of distinctions.
 > This is not a temporal process but a structural schema for possible configurations.
-> A path is not something that occurs in time; it is the formal shape of a coherent distinction-architecture prior to the emergence of time, law, or causation.”**
+> A path is not something that occurs in time; it is the formal shape of a coherent distinction-architecture prior to the emergence of time, law, or causation.
+> Or to put it more simply: Structure is not "generated" by the random walk. It is "revealed."**
